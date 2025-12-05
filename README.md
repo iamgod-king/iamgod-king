@@ -92,7 +92,7 @@
 ├── 🗺️ SLAM算法 (Visual SLAM, LiDAR SLAM, Fast-LIO)
 ├── 🎯 计算机视觉 (OpenCV, YOLOv5, ArUco)
 ├── 📡 多传感器融合 (IMU, GPS, UWB, 激光雷达)
-├── 🚁 无人机系统 (PX4飞控, Mavros通信)
+├── 🚁 无人机系统 (PX4飞控,APM飞控, Mavros通信)
 └── 🔧 嵌入式开发 (ARM平台, 实时系统)
 
 🧠 人工智能
